@@ -44,7 +44,7 @@
 6. **Clean UI**  
    - Built with [PyQt5](https://pypi.org/project/PyQt5/).  
    - Group boxes and a simple style sheet provide a professional layout.  
-   - “About” button displaying “Developed by pydev and chatgpt.”
+   - “About” button displaying “Developed by...”
 
 ---
 
