@@ -1,3 +1,7 @@
+
+
+![image](https://github.com/user-attachments/assets/317f64b8-9d66-4d03-806c-e93f5309c5f8)
+
 # PyScan
 
 **PyScan** is a Python-based security scanning tool that uses [YARA](https://virustotal.github.io/yara/) rules to detect malware or suspicious files. It supports scanning individual files, entire directories, the Downloads folder, and performs a “Persistence Remover” scan for malicious registry entries, startup folders, scheduled tasks, Windows services, and WMI subscriptions.
